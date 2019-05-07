@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>db-scheme</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.project</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/webdb/.project</locationURI>
+		</link>
+		<link>
+			<name>cdmall.exerd</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/cdmall/cdmall.exerd</locationURI>
+		</link>
+		<link>
+			<name>employee.exerd</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/webdb/employee.exerd</locationURI>
+		</link>
+		<link>
+			<name>webdb.exerd</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/webdb/webdb.exerd</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
